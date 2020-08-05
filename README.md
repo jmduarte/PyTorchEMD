@@ -12,7 +12,7 @@ First compile using
 
 Then, copy the lib file out to the main directory,
 
-        cp build/lib.linux-x86_64-3.6/emd_cuda.cpython-36m-x86_64-linux-gnu.so .
+        cp build/lib.linux-x86_64-3.7/emd_cuda.cpython-37m-x86_64-linux-gnu.so .
 
 Then, you can use it by simply
 
